@@ -3,10 +3,10 @@ Survive
 
 Members:
 Connor - Character Design
-Luca - Enemy Ai
+Luca  - Enemy Ai
 David - Graphics and Sounds
 Aksel - Game World
-....... - Art & Graphics
+..... - Art & Graphics
 
 To-do:
 - Contact our Art & Graphics person
