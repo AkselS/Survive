@@ -2,11 +2,11 @@ Survive
 =======
 
 Members:
-Connor - Character Design
-Luca  - Enemy Ai
-David - Graphics and Sounds
-Aksel - Game World
-..... - Art & Graphics
+- Connor - Character Design
+- Luca  - Enemy Ai
+- David - Graphics and Sounds
+- Aksel - Game World
+- ..... - Art & Graphics
 
 To-do:
 - Contact our Art & Graphics person
@@ -17,3 +17,8 @@ To-do:
 
 Completed:
 -
+
+
+Formatting Links:
+https://help.github.com/articles/markdown-basics
+https://help.github.com/articles/github-flavored-markdown
