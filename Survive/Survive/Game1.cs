@@ -19,6 +19,10 @@ namespace Survive
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
 
+        Texture2D spriteSheet;
+        Texture2D titleScreen;
+        SpriteFont perciles14;
+
         public Game1()
         {
             graphics = new GraphicsDeviceManager(this);
@@ -34,7 +38,11 @@ namespace Survive
         protected override void Initialize()
         {
             // TODO: Add your initialization logic here
+            this.graphics.PreferredBackBufferWidth = 800;
+            this.graphics.PreferredBackBufferHeight = 600;
+            this.graphics.ApplyChanges();
 
+            this.IsMouseVisible = true;
             base.Initialize();
         }
 
@@ -46,6 +54,11 @@ namespace Survive
         {
             // Create a new SpriteBatch, which can be used to draw textures.
             spriteBatch = new SpriteBatch(GraphicsDevice);
+
+            Camera.WorldRectangle = new Rectangle(0, 0, 1600, 1600);
+            Camera.ViewPortWidth = 800;
+            Camera.ViewPortHeight = 600;
+            
 
             // TODO: use this.Content to load your game content here
         }

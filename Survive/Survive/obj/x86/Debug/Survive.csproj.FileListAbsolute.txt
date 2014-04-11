@@ -1,0 +1,6 @@
+C:\Users\AkselS\Documents\GitHub\Survive\Survive\Survive\bin\x86\Debug\Survive.exe
+C:\Users\AkselS\Documents\GitHub\Survive\Survive\Survive\bin\x86\Debug\Survive.pdb
+C:\Users\AkselS\Documents\GitHub\Survive\Survive\Survive\obj\x86\Debug\Survive.csprojResolveAssemblyReference.cache
+C:\Users\AkselS\Documents\GitHub\Survive\Survive\Survive\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\AkselS\Documents\GitHub\Survive\Survive\Survive\obj\x86\Debug\Survive.exe
+C:\Users\AkselS\Documents\GitHub\Survive\Survive\Survive\obj\x86\Debug\Survive.pdb
