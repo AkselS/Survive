@@ -6,17 +6,17 @@ Members:
 - Luca  - Enemy Ai
 - David - Graphics and Sounds
 - Aksel - Game World
-- ..... - Art & Graphics
+- Jade - Art & Graphics
 
 To-do:
-- Contact our Art & Graphics person
 - Discuss Enemy AI capabilities
-- Decide on lighting system
-- Discuss necessary Art Assets with A&G person
 - Discuss/Create necessary classes
+- Work on lighting system
 
 Completed:
--
+- Contact our Art & Graphics person
+- Decide on lighting system
+- Discuss necessary Art Assets with A&G person
 
 
 Formatting Links:
