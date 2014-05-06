@@ -68,7 +68,7 @@ namespace Survive
         #region Public Methods
         public static void Move(Vector2 offset)
         {
-            Position += offset;
+            position += offset;
         }
 
         public static bool ObjectIsVisible(Rectangle bounds)

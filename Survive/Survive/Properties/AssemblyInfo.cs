@@ -8,8 +8,8 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("Survive")]
 [assembly: AssemblyProduct("Survive")]
 [assembly: AssemblyDescription("")]
-[assembly: AssemblyCompany("University of Westminster")]
-[assembly: AssemblyCopyright("Copyright © University of Westminster 2014")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyCopyright("Copyright ©  2014")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -22,7 +22,7 @@ using System.Runtime.InteropServices;
 // On Windows, the following GUID is for the ID of the typelib if this
 // project is exposed to COM. On other platforms, it unique identifies the
 // title storage container when deploying this assembly to the device.
-[assembly: Guid("acde8437-9549-4578-9a39-9c83ebc72b09")]
+[assembly: Guid("a97f25d6-2c3a-4e1c-9869-49be32661f0b")]
 
 // Version information for an assembly consists of the following four values:
 //

@@ -1,6 +1,8 @@
-C:\Users\AkselS\Documents\GitHub\Survive\Survive\Survive\bin\x86\Debug\Survive.exe
-C:\Users\AkselS\Documents\GitHub\Survive\Survive\Survive\bin\x86\Debug\Survive.pdb
-C:\Users\AkselS\Documents\GitHub\Survive\Survive\Survive\obj\x86\Debug\Survive.csprojResolveAssemblyReference.cache
-C:\Users\AkselS\Documents\GitHub\Survive\Survive\Survive\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
-C:\Users\AkselS\Documents\GitHub\Survive\Survive\Survive\obj\x86\Debug\Survive.exe
-C:\Users\AkselS\Documents\GitHub\Survive\Survive\Survive\obj\x86\Debug\Survive.pdb
+C:\Users\Connor\Documents\XNA\Survive\Survive\Survive\Survive\bin\x86\Debug\Content\Textures\ImageHolder.xnb
+C:\Users\Connor\Documents\XNA\Survive\Survive\Survive\Survive\bin\x86\Debug\Content\Textures\spritesheet.xnb
+C:\Users\Connor\Documents\XNA\Survive\Survive\Survive\Survive\bin\x86\Debug\Survive.exe
+C:\Users\Connor\Documents\XNA\Survive\Survive\Survive\Survive\bin\x86\Debug\Survive.pdb
+C:\Users\Connor\Documents\XNA\Survive\Survive\Survive\Survive\obj\x86\Debug\Survive.csprojResolveAssemblyReference.cache
+C:\Users\Connor\Documents\XNA\Survive\Survive\Survive\Survive\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Connor\Documents\XNA\Survive\Survive\Survive\Survive\obj\x86\Debug\Survive.exe
+C:\Users\Connor\Documents\XNA\Survive\Survive\Survive\Survive\obj\x86\Debug\Survive.pdb
