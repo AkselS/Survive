@@ -89,6 +89,34 @@ namespace Survive
                 rectangle.Width,
                 rectangle.Height);
         }
+
+        public static Vector2 WorldToScreen(Vector2 worldLocation)
+        {
+            return worldLocation - position;
+        }
+
+        public static Rectangle WorldToScreen(Rectangle worldRectangle)
+        {
+            return new Rectangle(
+                worldRectangle.Left - (int)position.X,
+                worldRectangle.Top - (int)position.Y,
+                worldRectangle.Width,
+                worldRectangle.Height);
+        }
+
+        public static Vector2 ScreenToWorld(Vector2 screenLocation)
+        {
+            return screenLocation + position;
+        }
+
+        public static Rectangle ScreenToWorld(Rectangle screenRectangle)
+        {
+            return new Rectangle(
+                screenRectangle.Left + (int)position.X,
+                screenRectangle.Top + (int)position.Y,
+                screenRectangle.Width,
+                screenRectangle.Height);
+        }
         #endregion
     }
 }

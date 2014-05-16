@@ -6,3 +6,37 @@ C:\Users\Connor\Documents\XNA\Survive\Survive\Survive\Survive\obj\x86\Debug\Surv
 C:\Users\Connor\Documents\XNA\Survive\Survive\Survive\Survive\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\Users\Connor\Documents\XNA\Survive\Survive\Survive\Survive\obj\x86\Debug\Survive.exe
 C:\Users\Connor\Documents\XNA\Survive\Survive\Survive\Survive\obj\x86\Debug\Survive.pdb
+H:\Games Group Project 1\Coursework 2\Survive\Survive\Survive\bin\x86\Debug\Survive.exe
+H:\Games Group Project 1\Coursework 2\Survive\Survive\Survive\bin\x86\Debug\Survive.pdb
+H:\Games Group Project 1\Coursework 2\Survive\Survive\Survive\obj\x86\Debug\Survive.csprojResolveAssemblyReference.cache
+H:\Games Group Project 1\Coursework 2\Survive\Survive\Survive\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+H:\Games Group Project 1\Coursework 2\Survive\Survive\Survive\obj\x86\Debug\Survive.exe
+H:\Games Group Project 1\Coursework 2\Survive\Survive\Survive\obj\x86\Debug\Survive.pdb
+J:\Connor THE G\Survive\Survive\Survive\obj\x86\Debug\Survive.csprojResolveAssemblyReference.cache
+J:\Connor THE G\Survive\Survive\Survive\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+J:\Connor THE G\Survive\Survive\Survive\obj\x86\Debug\Survive.exe
+J:\Connor THE G\Survive\Survive\Survive\obj\x86\Debug\Survive.pdb
+J:\Connor THE G\Survive\Survive\Survive\bin\x86\Debug\Survive.exe
+J:\Connor THE G\Survive\Survive\Survive\bin\x86\Debug\Survive.pdb
+J:\Connor THE G\Survive\Survive\Survive\bin\x86\Debug\Content\Textures\Player\Down.xnb
+J:\Connor THE G\Survive\Survive\Survive\bin\x86\Debug\Content\Textures\Player\Left.xnb
+J:\Connor THE G\Survive\Survive\Survive\bin\x86\Debug\Content\Textures\Player\Right.xnb
+J:\Connor THE G\Survive\Survive\Survive\bin\x86\Debug\Content\Textures\Player\Up.xnb
+J:\Connor THE G\Survive\Survive\Survive\bin\x86\Debug\Content\Textures\spritesheet.xnb
+J:\Connor THE G\Survive\Survive\Survive\bin\x86\Debug\Content\Textures\TileMap.xnb
+J:\Connor THE G\Survive\Survive\Survive\bin\x86\Debug\Content\Textures\Player\IdleDown.xnb
+J:\Connor THE G\Survive\Survive\Survive\bin\x86\Debug\Content\Textures\Player\IdleLeft.xnb
+J:\Connor THE G\Survive\Survive\Survive\bin\x86\Debug\Content\Textures\Player\IdleRight.xnb
+J:\Connor THE G\Survive\Survive\Survive\bin\x86\Debug\Content\Textures\Player\IdleUp.xnb
+J:\Connor THE G\Survive\Survive\Survive\bin\x86\Debug\Content\Textures\Overlay.xnb
+J:\Connor THE G\Survive\Survive\Survive\bin\x86\Debug\Content\Textures\Overlay2.xnb
+J:\Connor THE G\Survive\Survive\Survive\bin\x86\Debug\Content\Textures\Enemy\Brown\Down.xnb
+J:\Connor THE G\Survive\Survive\Survive\bin\x86\Debug\Content\Textures\Enemy\Brown\Idle.xnb
+J:\Connor THE G\Survive\Survive\Survive\bin\x86\Debug\Content\Textures\Enemy\Brown\Left.xnb
+J:\Connor THE G\Survive\Survive\Survive\bin\x86\Debug\Content\Textures\Enemy\Brown\Right.xnb
+J:\Connor THE G\Survive\Survive\Survive\bin\x86\Debug\Content\Textures\Enemy\Brown\Up.xnb
+J:\Connor THE G\Survive\Survive\Survive\bin\x86\Debug\Content\Textures\Enemy\Green\Down.xnb
+J:\Connor THE G\Survive\Survive\Survive\bin\x86\Debug\Content\Textures\Enemy\Green\Idle.xnb
+J:\Connor THE G\Survive\Survive\Survive\bin\x86\Debug\Content\Textures\Enemy\Green\Left.xnb
+J:\Connor THE G\Survive\Survive\Survive\bin\x86\Debug\Content\Textures\Enemy\Green\Right.xnb
+J:\Connor THE G\Survive\Survive\Survive\bin\x86\Debug\Content\Textures\Enemy\Green\Up.xnb

@@ -1,1 +1,3 @@
 C:\Users\AkselS\Documents\GitHub\Survive\Survive\SurviveContent\obj\x86\Debug\SurviveContent.contentprojResolveAssemblyReference.cache
+H:\Games Group Project 1\Coursework 2\Survive\Survive\SurviveContent\obj\x86\Debug\SurviveContent.contentprojResolveAssemblyReference.cache
+J:\Connor THE G\Survive\Survive\SurviveContent\obj\x86\Debug\SurviveContent.contentprojResolveAssemblyReference.cache

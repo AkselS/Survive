@@ -107,12 +107,19 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Animation.cs" />
     <Compile Include="Camera.cs" />
+    <Compile Include="Enemy2.cs" />
+    <Compile Include="Enemy.cs" />
+    <Compile Include="GameObject.cs" />
+    <Compile Include="MapSquare.cs" />
     <Compile Include="Player.cs" />
+    <Compile Include="Player1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Game1.cs" />
     <Compile Include="Sprite.cs" />
+    <Compile Include="TileMap.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Game.ico" />

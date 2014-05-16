@@ -1,0 +1,244 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Textures\Player\Down.png</Source>
+      <Name>Textures\Player\Down</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Connor THE G\Survive\Survive\Survive\bin\x86\Debug\Content\Textures\Player\Down.xnb</Output>
+      <Time>2014-05-13T19:28:54+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Player\Left.png</Source>
+      <Name>Textures\Player\Left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Connor THE G\Survive\Survive\Survive\bin\x86\Debug\Content\Textures\Player\Left.xnb</Output>
+      <Time>2014-05-13T19:29:30+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Player\Right.png</Source>
+      <Name>Textures\Player\Right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Connor THE G\Survive\Survive\Survive\bin\x86\Debug\Content\Textures\Player\Right.xnb</Output>
+      <Time>2014-05-13T19:30:14+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Player\Up.png</Source>
+      <Name>Textures\Player\Up</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Connor THE G\Survive\Survive\Survive\bin\x86\Debug\Content\Textures\Player\Up.xnb</Output>
+      <Time>2014-05-13T19:28:18+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\spritesheet.png</Source>
+      <Name>Textures\spritesheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Connor THE G\Survive\Survive\Survive\bin\x86\Debug\Content\Textures\spritesheet.xnb</Output>
+      <Time>2014-05-13T14:52:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\TileMap.png</Source>
+      <Name>Textures\TileMap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Connor THE G\Survive\Survive\Survive\bin\x86\Debug\Content\Textures\TileMap.xnb</Output>
+      <Time>2014-05-14T20:24:44+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Player\IdleDown.png</Source>
+      <Name>Textures\Player\IdleDown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Connor THE G\Survive\Survive\Survive\bin\x86\Debug\Content\Textures\Player\IdleDown.xnb</Output>
+      <Time>2014-05-13T20:36:08+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Player\IdleLeft.png</Source>
+      <Name>Textures\Player\IdleLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Connor THE G\Survive\Survive\Survive\bin\x86\Debug\Content\Textures\Player\IdleLeft.xnb</Output>
+      <Time>2014-05-14T21:00:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Player\IdleRight.png</Source>
+      <Name>Textures\Player\IdleRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Connor THE G\Survive\Survive\Survive\bin\x86\Debug\Content\Textures\Player\IdleRight.xnb</Output>
+      <Time>2014-05-14T21:00:08+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Player\IdleUp.png</Source>
+      <Name>Textures\Player\IdleUp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Connor THE G\Survive\Survive\Survive\bin\x86\Debug\Content\Textures\Player\IdleUp.xnb</Output>
+      <Time>2014-05-14T20:59:36+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Overlay.png</Source>
+      <Name>Textures\Overlay</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Connor THE G\Survive\Survive\Survive\bin\x86\Debug\Content\Textures\Overlay.xnb</Output>
+      <Time>2014-05-15T21:45:44+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Overlay2.png</Source>
+      <Name>Textures\Overlay2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Connor THE G\Survive\Survive\Survive\bin\x86\Debug\Content\Textures\Overlay2.xnb</Output>
+      <Time>2014-05-15T22:12:36+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Enemy\Brown\Down.png</Source>
+      <Name>Textures\Enemy\Brown\Down</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Connor THE G\Survive\Survive\Survive\bin\x86\Debug\Content\Textures\Enemy\Brown\Down.xnb</Output>
+      <Time>2014-05-16T16:01:34+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Enemy\Brown\Idle.png</Source>
+      <Name>Textures\Enemy\Brown\Idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Connor THE G\Survive\Survive\Survive\bin\x86\Debug\Content\Textures\Enemy\Brown\Idle.xnb</Output>
+      <Time>2014-05-16T16:04:12+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Enemy\Brown\Left.png</Source>
+      <Name>Textures\Enemy\Brown\Left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Connor THE G\Survive\Survive\Survive\bin\x86\Debug\Content\Textures\Enemy\Brown\Left.xnb</Output>
+      <Time>2014-05-16T16:02:22+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Enemy\Brown\Right.png</Source>
+      <Name>Textures\Enemy\Brown\Right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Connor THE G\Survive\Survive\Survive\bin\x86\Debug\Content\Textures\Enemy\Brown\Right.xnb</Output>
+      <Time>2014-05-16T16:02:52+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Enemy\Brown\Up.png</Source>
+      <Name>Textures\Enemy\Brown\Up</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Connor THE G\Survive\Survive\Survive\bin\x86\Debug\Content\Textures\Enemy\Brown\Up.xnb</Output>
+      <Time>2014-05-16T16:01:52+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Enemy\Green\Down.png</Source>
+      <Name>Textures\Enemy\Green\Down</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Connor THE G\Survive\Survive\Survive\bin\x86\Debug\Content\Textures\Enemy\Green\Down.xnb</Output>
+      <Time>2014-05-16T15:57:44+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Enemy\Green\Idle.png</Source>
+      <Name>Textures\Enemy\Green\Idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Connor THE G\Survive\Survive\Survive\bin\x86\Debug\Content\Textures\Enemy\Green\Idle.xnb</Output>
+      <Time>2014-05-16T16:03:46+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Enemy\Green\Left.png</Source>
+      <Name>Textures\Enemy\Green\Left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Connor THE G\Survive\Survive\Survive\bin\x86\Debug\Content\Textures\Enemy\Green\Left.xnb</Output>
+      <Time>2014-05-16T15:58:42+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Enemy\Green\Right.png</Source>
+      <Name>Textures\Enemy\Green\Right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Connor THE G\Survive\Survive\Survive\bin\x86\Debug\Content\Textures\Enemy\Green\Right.xnb</Output>
+      <Time>2014-05-16T16:00:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Enemy\Green\Up.png</Source>
+      <Name>Textures\Enemy\Green\Up</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Connor THE G\Survive\Survive\Survive\bin\x86\Debug\Content\Textures\Enemy\Green\Up.xnb</Output>
+      <Time>2014-05-16T15:58:18+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>J:\Connor THE G\Survive\Survive\SurviveContent\</RootDirectory>
+      <LoggerRootDirectory>J:\Connor THE G\Survive\Survive\Survive\</LoggerRootDirectory>
+      <IntermediateDirectory>J:\Connor THE G\Survive\Survive\SurviveContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>J:\Connor THE G\Survive\Survive\Survive\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-11-12T13:59:53.6138938+00:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

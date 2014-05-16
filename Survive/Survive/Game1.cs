@@ -18,8 +18,14 @@ namespace Survive
     {
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
+        Player player;
+        Enemy enemy1;
+        Enemy2 enemy2;
+        Enemy enemy3;
+        Enemy enemy4;
+        
 
-        Texture2D spritesheet, backgroundimage;
+        Texture2D spritesheet, overlay, tilemap;
 
         Sprite tempSprite, tempSprite2, tempSprite3;
 
@@ -53,20 +59,31 @@ namespace Survive
             // Create a new SpriteBatch, which can be used to draw textures.
             spriteBatch = new SpriteBatch(GraphicsDevice);
             spritesheet = Content.Load<Texture2D>(@"Textures\spritesheet");
-            backgroundimage = Content.Load<Texture2D>(@"Textures\ImageHolder");
-
-            Camera.WorldRectangle = new Rectangle(0, 0, 1600, 1600);
+            tilemap = Content.Load<Texture2D>(@"Textures\TileMap");
+            overlay = Content.Load<Texture2D>(@"Textures\Overlay");
+            TileMap.Initialize(tilemap);
+            Camera.WorldRectangle = new Rectangle(0, 0, 2560, 2560);
             Camera.ViewPortWidth = 800;
             Camera.ViewPortHeight = 600;
 
             //Construct Player
             //tempSprite = new Sprite(new Vector2 (position x, position y), spritesheet, new Rectangle(co-ordinate x, co-ordinate y, width, height), Vector2.Zero (animationspeed));
-            Player.Initialize(spritesheet,
+            /*Player.Initialize(spritesheet,
                 new Rectangle(0, 0, 64, 64),
                 4,
                 new Rectangle(0, 0, 0, 0),
                 1,
-                new Vector2(300, 300));
+                new Vector2(300, 300));*/
+            player = new Player(Content);
+            player.WorldLocation = new Vector2(550, 550);
+            enemy1 = new Enemy(Content);
+            enemy1.WorldLocation = new Vector2(300, 550);
+            enemy2 = new Enemy2(Content);
+            enemy2.WorldLocation = new Vector2(350, 550);
+            enemy3 = new Enemy(Content);
+            enemy3.WorldLocation = new Vector2(300, 500);
+            enemy4 = new Enemy(Content);
+            enemy4.WorldLocation = new Vector2(250, 550);
             // TODO: use this.Content to load your game content here
         }
 
@@ -92,7 +109,7 @@ namespace Survive
 
             // TODO: Add your update logic here
 
-            Player.Update(gameTime);
+            player.Update(gameTime);
             /*temp input handling
 
             Vector2 spriteMove = Vector2.Zero;
@@ -134,13 +151,18 @@ namespace Survive
         /// <param name="gameTime">Provides a snapshot of timing values.</param>
         protected override void Draw(GameTime gameTime)
         {
-            GraphicsDevice.Clear(Color.CornflowerBlue);
+            GraphicsDevice.Clear(Color.Black);
+
+            Rectangle CamLoc = new Rectangle(0, 0, 800, 600);
+
             spriteBatch.Begin();
-            /* tempSprite.Draw(spriteBatch);
-            tempSprite2.Draw(spriteBatch);
-            tempSprite3.Draw(spriteBatch);
-             */
-            Player.Draw(spriteBatch);
+            TileMap.Draw(spriteBatch);
+            player.Draw(spriteBatch);
+            enemy1.Draw(spriteBatch);
+            enemy2.Draw(spriteBatch);
+            enemy3.Draw(spriteBatch);
+            enemy4.Draw(spriteBatch);
+            spriteBatch.Draw(overlay, new Rectangle(0, 0, 800, 600), CamLoc, Color.White);
             spriteBatch.End();
 
             // TODO: Add your drawing code here
